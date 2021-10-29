@@ -88,7 +88,7 @@ def wishme():
     
     speak("I hope you will be healthy!")
 
-    speak("let me check your pc status!")
+    speak("I am going for pc status, Can I or if you have urgent task to work on!")
     time.sleep(2)
 
     cpu()
