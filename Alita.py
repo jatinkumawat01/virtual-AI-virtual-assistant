@@ -4,7 +4,6 @@
 #pip install SpeechRecognition
 #pip install wikipedia
 #pip install pyautogui
-
 #pip install  psutil
 #pip install pyjokes
 #pip install feedparser
