@@ -83,8 +83,7 @@ def wishme():
         speak("Good evening sir!")
     else:
         speak("Good night sir!")
-    
-    
+
     speak("I hope you will be healthy!")
 
     speak("let me check your pc status!")
